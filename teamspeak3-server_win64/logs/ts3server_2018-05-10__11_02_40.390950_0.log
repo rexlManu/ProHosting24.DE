@@ -1,0 +1,96 @@
+﻿2018-05-10 11:02:40.390950|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.1.3 (2018-04-27 20:24:32)
+2018-05-10 11:02:40.391953|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (16299) x64 (AMD or Intel) Binary: 64bit
+2018-05-10 11:02:40.392455|INFO    |ServerLibPriv |   |Using hardware aes
+2018-05-10 11:02:40.394462|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-05-10 11:02:40.394462|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-05-10 11:02:40.395465|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-05-10 11:02:40.422056|INFO    |SQL           |   |db_CreateTables() tables created
+2018-05-10 11:02:40.447142|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-05-10 11:02:40.457678|INFO    |Accounting    |   |Licensing Information
+2018-05-10 11:02:40.457678|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-05-10 11:02:40.457678|INFO    |Accounting    |   |type              : No License
+2018-05-10 11:02:40.457678|INFO    |Accounting    |   |starting date     : Wed May 31 22:00:00 2017
+2018-05-10 11:02:40.457678|INFO    |Accounting    |   |ending date       : Fri Aug 31 22:00:00 2018
+2018-05-10 11:02:40.457678|INFO    |Accounting    |   |max virtualservers: 1
+2018-05-10 11:02:40.457678|INFO    |Accounting    |   |max slots         : 32
+2018-05-10 11:02:41.371292|INFO    |              |   |Puzzle precompute time: 897
+2018-05-10 11:02:41.374302|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-05-10 11:02:41.375305|INFO    |VirtualSvrMgr |   |executing monthly interval
+2018-05-10 11:02:41.376310|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2018-05-10 11:02:41.424974|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2018-05-10 11:02:41.426480|INFO    |Query         |   |listening on 0.0.0.0:10011, [::]:10011
+2018-05-10 13:00:35.925302|INFO    |Query         |   |query from 1368 127.0.0.1:4086 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:03:36.886078|INFO    |Query         |   |query from 1880 127.0.0.1:4122 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:04:18.678521|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:04:20.344198|INFO    |Query         |   |query from 1788 127.0.0.1:4133 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:09:29.997102|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:09:31.984877|INFO    |Query         |   |query from 1876 127.0.0.1:4152 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:10:46.636816|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:10:48.624090|INFO    |Query         |   |query from 1936 127.0.0.1:4162 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:11:27.791084|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:11:29.527502|INFO    |Query         |   |query from 1896 127.0.0.1:4170 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:11:50.634944|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:11:52.390427|INFO    |Query         |   |query from 1936 127.0.0.1:4182 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:12:49.503086|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:12:51.403564|INFO    |Query         |   |query from 1904 127.0.0.1:4192 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:13:57.391473|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:14:30.449647|INFO    |Query         |   |query from 1876 127.0.0.1:4209 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:16:02.736192|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:16:04.501208|INFO    |Query         |   |query from 1796 127.0.0.1:4222 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:16:29.334347|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:16:31.010560|INFO    |Query         |   |query from 1676 127.0.0.1:4231 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:17:09.307089|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:17:10.943665|INFO    |Query         |   |query from 1668 127.0.0.1:4239 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:17:24.507897|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:17:26.136950|INFO    |Query         |   |query from 1940 127.0.0.1:4245 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:34:45.138725|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:34:46.952908|INFO    |Query         |   |query from 1668 127.0.0.1:4467 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:40:01.075545|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:40:03.205807|INFO    |Query         |   |query from 1968 127.0.0.1:4491 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:40:22.646065|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:40:23.555164|INFO    |Query         |   |query from 2012 127.0.0.1:4498 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:40:32.865397|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:40:34.610344|INFO    |Query         |   |query from 2016 127.0.0.1:4504 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:40:56.540088|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:40:58.340725|INFO    |Query         |   |query from 1668 127.0.0.1:4512 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:48:13.341859|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:48:15.210728|INFO    |Query         |   |query from 1936 127.0.0.1:4549 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:48:47.723041|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:48:49.546256|INFO    |Query         |   |query from 2016 127.0.0.1:4557 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:49:32.441959|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:49:34.162322|INFO    |Query         |   |query from 1760 127.0.0.1:4568 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 13:52:04.344696|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 13:52:06.202528|INFO    |Query         |   |query from 2024 127.0.0.1:4599 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 14:16:46.742252|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 14:16:48.779195|INFO    |Query         |   |query from 2040 127.0.0.1:7534 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 14:17:16.997873|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 14:17:17.926037|INFO    |Query         |   |query from 1992 127.0.0.1:7635 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 14:36:25.794868|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 14:36:27.881480|INFO    |Query         |   |query from 1968 127.0.0.1:11227 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 14:42:55.568350|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 14:42:57.559638|INFO    |Query         |   |query from 1756 127.0.0.1:12427 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 14:43:08.757302|INFO    |Query         |   |query from 2004 127.0.0.1:12469 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 14:56:09.446158|INFO    |Query         |   |query from 1404 127.0.0.1:14885 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 14:56:51.486948|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 14:56:53.395452|INFO    |Query         |   |query from 1820 127.0.0.1:15025 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 14:57:43.129463|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 14:57:44.068162|INFO    |Query         |   |query from 1760 127.0.0.1:15180 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 14:57:55.753490|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 14:57:56.644025|INFO    |Query         |   |query from 1644 127.0.0.1:15232 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 15:00:56.182454|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 15:00:57.909340|INFO    |Query         |   |query from 556 127.0.0.1:15789 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 15:10:03.543549|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 15:10:05.432486|INFO    |Query         |   |query from 1736 127.0.0.1:17483 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 15:11:47.689012|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 15:11:49.316560|INFO    |Query         |   |query from 2028 127.0.0.1:17807 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 15:11:59.397418|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 15:12:00.290964|INFO    |Query         |   |query from 1676 127.0.0.1:17839 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 15:19:29.209532|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 15:19:31.044286|INFO    |Query         |   |query from 2028 127.0.0.1:19234 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 15:19:38.465079|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 15:19:39.407792|INFO    |Query         |   |query from 1644 127.0.0.1:19265 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 15:23:28.082192|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 15:23:29.955076|INFO    |Query         |   |query from 1760 127.0.0.1:19996 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 15:23:52.020282|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+2018-05-10 15:23:53.509357|INFO    |Query         |   |query from 1840 127.0.0.1:20066 issued: login with account "serveradmin"(serveradmin)
+2018-05-10 15:26:24.916404|ERROR   |              |   |error reading tcp socket Eine vorhandene Verbindung wurde vom Remotehost geschlossen

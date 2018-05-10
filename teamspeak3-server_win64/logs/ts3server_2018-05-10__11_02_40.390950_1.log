@@ -1,0 +1,14 @@
+﻿2018-05-10 11:02:41.416947|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-05-10 11:02:41.418453|WARNING |VirtualServer |1  |--------------------------------------------------------
+2018-05-10 11:02:41.418453|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2018-05-10 11:02:41.418453|WARNING |VirtualServer |1  |token=SwR+XWXOVcUBM7e99SA2g0Wyv8cfVEpsUlOoahQj
+2018-05-10 11:02:41.418453|WARNING |VirtualServer |1  |--------------------------------------------------------
+2018-05-10 11:03:15.380707|INFO    |VirtualServer |1  |client (id:2) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2018-05-10 11:03:15.381711|INFO    |VirtualServer |1  |client 'яεхʟмαпυ × マヌー'(id:2) used privilege key 'SwR+XWXOVcUBM7e99SA2g0Wyv8cfVEpsUlOoahQj' and was added to servergroup 'Server Admin'(id:6)
+2018-05-10 14:17:04.932752|INFO    |VirtualServer |1  |servergroup 'support'(id:9) was added by 'яεхʟмαпυ × マヌー'(id:2)
+2018-05-10 14:17:13.930418|INFO    |VirtualServer |1  |client (id:2) was added to servergroup 'support'(id:9) by client 'яεхʟмαпυ × マヌー'(id:2)
+2018-05-10 14:56:21.268954|INFO    |VirtualServer |1  |client (id:2) was removed from servergroup 'support'(id:9) by client 'яεхʟмαпυ × マヌー'(id:2)
+2018-05-10 14:57:17.412812|INFO    |VirtualServer |1  |client (id:4) was added to servergroup 'support'(id:9) by client 'яεхʟмαпυ × マヌー'(id:2)
+2018-05-10 14:58:55.766033|INFO    |VirtualServer |1  |client (id:4) was added to servergroup 'Server Admin'(id:6) by client 'яεхʟмαпυ × マヌー'(id:2)
+2018-05-10 14:59:34.448878|INFO    |VirtualServer |1  |servergroup 'Supporter'(id:10) was added by 'яεхʟмαпυ × マヌー1'(id:4)
+2018-05-10 15:35:36.304224|INFO    |VirtualServerBase|1  |stopped
